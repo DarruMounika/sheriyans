@@ -29,7 +29,7 @@ body::-webkit-scrollbar{
     /* border:2px solid black; */
     font-family: NeueMachina;
     transform: translate(17vw,10vh);
-    font-size: 2vw;
+    font-size: 3vw;
     display: flex;
     float: left;
     padding-left: 10%;
